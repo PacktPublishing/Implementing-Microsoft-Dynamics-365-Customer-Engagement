@@ -1,0 +1,12 @@
+E:\OneDrive\Dynamics365Book\CodeSample Chapter 7\SampleConsole\SampleConsole\bin\Debug\SampleConsole.exe.config
+E:\OneDrive\Dynamics365Book\CodeSample Chapter 7\SampleConsole\SampleConsole\bin\Debug\SampleConsole.exe
+E:\OneDrive\Dynamics365Book\CodeSample Chapter 7\SampleConsole\SampleConsole\bin\Debug\SampleConsole.pdb
+E:\OneDrive\Dynamics365Book\CodeSample Chapter 7\SampleConsole\SampleConsole\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+E:\OneDrive\Dynamics365Book\CodeSample Chapter 7\SampleConsole\SampleConsole\bin\Debug\Microsoft.Xrm.Sdk.dll
+E:\OneDrive\Dynamics365Book\CodeSample Chapter 7\SampleConsole\SampleConsole\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+E:\OneDrive\Dynamics365Book\CodeSample Chapter 7\SampleConsole\SampleConsole\bin\Debug\Microsoft.Xrm.Sdk.xml
+E:\OneDrive\Dynamics365Book\CodeSample Chapter 7\SampleConsole\SampleConsole\obj\Debug\SampleConsole.csprojAssemblyReference.cache
+E:\OneDrive\Dynamics365Book\CodeSample Chapter 7\SampleConsole\SampleConsole\obj\Debug\SampleConsole.csproj.CoreCompileInputs.cache
+E:\OneDrive\Dynamics365Book\CodeSample Chapter 7\SampleConsole\SampleConsole\obj\Debug\SampleConsole.csproj.CopyComplete
+E:\OneDrive\Dynamics365Book\CodeSample Chapter 7\SampleConsole\SampleConsole\obj\Debug\SampleConsole.exe
+E:\OneDrive\Dynamics365Book\CodeSample Chapter 7\SampleConsole\SampleConsole\obj\Debug\SampleConsole.pdb
