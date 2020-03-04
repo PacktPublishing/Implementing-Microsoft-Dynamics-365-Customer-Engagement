@@ -34,7 +34,7 @@ var HIMBAP = window.Sdk || {};
                     formContext.getAttribute("emailaddress1").setValue(emailaddress1);
                 },
                 function (error) {
-                    Xrm.Utility.alertDialog(error.message);
+                    console.log(error.message);
                 }
             );
             }
